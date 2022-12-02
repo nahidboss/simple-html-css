@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.main{
+    width: 1000px;
+    margin: 0px auto;
+    /* border: 1px solid darkblue; */
+}
+.left{
+    width: 500px;
+    float: left;
+    margin-top: 30px;
+    border: 1px solid darkblue;
+    /* padding: 29px; */
+
+
+}
+.left li a {
+    text-decoration: none;
+    color: rgb(227, 19, 235);
+    background-color: aliceblue;
+    
+}
+.left li a :hover{
+    color: red;
+    font-size: 15px;
+
+}
+.left h1{font-size: 40px;
+    color: darkblue;
+    /* padding: 29px; */
+
+}
+.left h2{
+font-size: 30px;
+color: darkblue;
+/* padding: 29px; */
+}
+.left h3{
+    font-size: 25px;
+    color: darkblue;
+}
+.left h4{
+    font-size: 40px;
+    color: darkblue;
+    text-align: center;
+    padding: 10px 5px;
+}
+.left p{
+    font-size: 20px;
+color: darkblue;
+text-align: justify;
+padding: 9;
+}
+.left a{
+    text-decoration: none;
+    color:aliceblue;
+    background-color: darkblue;
+}
+.right img{
+    width: 500px;
+    margin-top: 50px;
+    border-radius: 30px 10px 30px 10px;
+}
+.two img{
+    border: 1px solid darkblue;
+    width: 100px;
+     border-radius: 30px 10px 30px 10px;
+
+}
+.two{
+    /* padding: 20px 20px; */
+    /* margin-left: 200px;  */
+    width: 681px;
+    border: 1px solid darkblue:
+    margin-top: 22px;
+    padding: 54px 80px;
+    margin-left: 208px;
+    border: 1px solid darkblue;
+}
+
+.two p{ color: darkblue;
+    font-size: 15px;
+    text-align: justify;
+    padding: 20px;
+
+}
+/*this is a for form*/
+form{
+    width: 932px;
+    height: 585px;
+    border: 1px solid darkblue;
+    /* background-color: blue; */
+    margin-top: 50px;
+    margin: 100px auto;
+    padding: 29px;
+}
+h1{
+    font-size: 40px;
+    color: rgb(8, 37, 80);
+    text-align: center;
+    margin: 30px auto;
+
+}
+h1:hover{
+    color: cadetblue;
+    cursor: pointer;
+
+}
